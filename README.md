@@ -85,4 +85,15 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 - Key results and insights
 - Produced Jupyter notebook with step-by-step execution.
 
+# Results
+## Investor 1, Age: 22, Investment goal: Education, Time Horizon: Less than 10 years
+| 1. | No|
+| 2. | Investing to generate education fund|
+| 3. | Less than 10 years |
+| 4. | Invest more to take advantage of lower prices |
+| 5. | Unstable income and low savings |
+| **Target Year** | 2030 |
+| **Recommended asset allocation** | Stocks: 35.0%, Bonds: 50.0%, Gold: 15.0% |
+| **Risk Score** | 11 |
+| **Profile** | Aggressive (High risk tolerance) |
 
