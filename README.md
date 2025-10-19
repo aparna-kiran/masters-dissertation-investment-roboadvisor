@@ -93,60 +93,85 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 ## Optimal portfolio generated for five investors
 
 ## Investor 1, Age: 22, Investment goal: Education, Time Horizon: Less than 10 years
-| 1. | No |
+| Questions | Responses & Results |
 |:---|:---|
-| 2. | Investing to generate education fund |
-| 3. | Less than 10 years |
-| 4. | Invest more to take advantage of lower prices |
-| 5. | Unstable income and low savings |
+| 1. Are you retired? | No |
+| 2. What is your primary reason for investing? | Investing to generate education fund |
+| 3. How long do you plan to
+keep this investment? | Less than 10 years |
+| 4. How would you react if
+your portfolio dropped by
+20% in a short time? | Invest more to take advantage of lower prices |
+| 5. How would you describe
+your financial situation? | Unstable income and low savings |
 | **Target Year** | 2030 |
 | **Recommended asset allocation** | Stocks: 35.0%, Bonds: 50.0%, Gold: 15.0% |
 | **Risk Score** | 11 |
 | **Profile** | Aggressive (High risk tolerance) |
 
 ## Investor 2, Age: 35, Investment goal: Major Purchases, Time Horizon: 10 to 20 years
-| 1. | No |
+| Questions | Responses & Results |
 |:---|:---|
-| 2. | Aggressive growth for major purchases |
-| 3. | 10 to 20 years |
-| 4. | Sell all my investments to avoid further losses |
-| 5. | Stable income with some savings |
+| 1. Are you retired? | No |
+| 2. What is your primary reason for investing? | Aggressive growth for major purchases |
+| 3. How long do you plan to
+keep this investment? | 10 to 20 years |
+| 4. How would you react if
+your portfolio dropped by
+20% in a short time? | Sell all my investments to avoid further losses |
+| 5. How would you describe
+your financial situation? | Stable income with some savings |
 | **Target Year** | 2035 |
 | **Recommended asset allocation** | Stocks: 61.90%, Bonds: 38.10%, Gold: 0.0% |
 | **Risk Score** | 12 |
 | **Profile** | Aggressive (High risk) |
 
 ## Investor 3, Age: 43, Investment goal: Retirement, Time Horizon: 10 to 20 years
-| 1. | No |
+| Questions | Responses & Results |
 |:---|:---|
-| 2. | Preserve capital for retirement |
-| 3. | 10 to 20 years |
-| 4. | Sell all my investments to avoid further losses |
-| 5. | Stable income with some savings |
+| 1. Are you retired? | No |
+| 2. What is your primary reason for investing? | Preserve capital for retirement |
+| 3. How long do you plan to
+keep this investment? | 10 to 20 years |
+| 4. How would you react if
+your portfolio dropped by
+20% in a short time? | Sell all my investments to avoid further losses |
+| 5. How would you describe
+your financial situation? | Stable income with some savings |
 | **Target Year** | 2040 |
 | **Recommended asset allocation** | Stocks: 56.52%, Bonds: 43.48%, Gold: 0.0% |
 | **Risk Score** | 8 |
 | **Profile** | Moderate (Medium risk tolerance) |
 
 ## Investor 4, Age: 57, Investment goal: General Investing, Time Horizon: 20 to 30 years
-| 1. | Yes |
+| Questions | Responses & Results |
 |:---|:---|
-| 2. | Generally investing to grow wealth |
-| 3. | 20 to 30 years |
-| 4. | Do nothing and wait for it to recover |
-| 5. | Stable income with substantial savings and investments |
+| 1. Are you retired? | Yes |
+| 2. What is your primary reason for investing? | Generally investing to grow wealth |
+| 3. How long do you plan to
+keep this investment? | 20 to 30 years |
+| 4. How would you react if
+your portfolio dropped by
+20% in a short time? | Do nothing and wait for it to recover |
+| 5. How would you describe
+your financial situation? | Stable income with substantial savings and investments |
 | **Target Year** | 2050 |
 | **Recommended asset allocation** | Stocks: 82.61%, Bonds: 17.39%, Gold: 0.0% |
 | **Risk Score** | 16 |
 | **Profile** | Most Aggressive (Very High risk tolerance) |
 
 ## Investor 5, Age: 32, Investment goal: Retirement, Time Horizon: 30+ years
-| 1. | No |
+| Questions | Responses & Results |
 |:---|:---|
-| 2. | Preserve capital for retirement |
-| 3. | More than 30 years |
-| 4. | Do nothing and wait for it to recover |
-| 5. | Stable income with some savings |
+| 1. Are you retired? | No |
+| 2. What is your primary reason for investing? | Preserve capital for retirement |
+| 3. How long do you plan to
+keep this investment? | More than 30 years |
+| 4. How would you react if
+your portfolio dropped by
+20% in a short time? | Do nothing and wait for it to recover |
+| 5. How would you describe
+your financial situation? | Stable income with some savings |
 | **Target Year** | 2055 |
 | **Recommended asset allocation** | Stocks: 100.0%, Bonds: 0.0%, Gold: 0.0% |
 | **Risk Score** | 14 |
