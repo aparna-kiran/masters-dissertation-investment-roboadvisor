@@ -88,6 +88,7 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 # Results
 ## Investor 1, Age: 22, Investment goal: Education, Time Horizon: Less than 10 years
 | 1. | No|
+|---|---|
 | 2. | Investing to generate education fund|
 | 3. | Less than 10 years |
 | 4. | Invest more to take advantage of lower prices |
