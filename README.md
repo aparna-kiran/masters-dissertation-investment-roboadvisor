@@ -87,12 +87,12 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 
 # Results
 
-## Optimal portfolio's weight allocation
+### Optimal portfolio's weight allocation
 ![Optimal portfolio's weight allocation](/images/optimal_weight_allocation.png)
 
 ## Optimal portfolio generated for five investors
 
-## Investor 1, Age: 22, Investment goal: Education, Time Horizon: Less than 10 years
+#### Investor 1, Age: 22, Investment goal: Education, Time Horizon: Less than 10 years
 | Questions | Responses & Results |
 |:---|:---|
 | 1. Are you retired? | No |
@@ -105,7 +105,7 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 | **Risk Score** | 11 |
 | **Profile** | Aggressive (High risk tolerance) |
 
-## Investor 2, Age: 35, Investment goal: Major Purchases, Time Horizon: 10 to 20 years
+#### Investor 2, Age: 35, Investment goal: Major Purchases, Time Horizon: 10 to 20 years
 | Questions | Responses & Results |
 |:---|:---|
 | 1. Are you retired? | No |
@@ -118,7 +118,7 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 | **Risk Score** | 12 |
 | **Profile** | Aggressive (High risk) |
 
-## Investor 3, Age: 43, Investment goal: Retirement, Time Horizon: 10 to 20 years
+#### Investor 3, Age: 43, Investment goal: Retirement, Time Horizon: 10 to 20 years
 | Questions | Responses & Results |
 |:---|:---|
 | 1. Are you retired? | No |
@@ -131,7 +131,7 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 | **Risk Score** | 8 |
 | **Profile** | Moderate (Medium risk tolerance) |
 
-## Investor 4, Age: 57, Investment goal: General Investing, Time Horizon: 20 to 30 years
+#### Investor 4, Age: 57, Investment goal: General Investing, Time Horizon: 20 to 30 years
 | Questions | Responses & Results |
 |:---|:---|
 | 1. Are you retired? | Yes |
@@ -144,7 +144,7 @@ The 2008 financial crisis marked a significant shift in the financial landscape,
 | **Risk Score** | 16 |
 | **Profile** | Most Aggressive (Very High risk tolerance) |
 
-## Investor 5, Age: 32, Investment goal: Retirement, Time Horizon: 30+ years
+#### Investor 5, Age: 32, Investment goal: Retirement, Time Horizon: 30+ years
 | Questions | Responses & Results |
 |:---|:---|
 | 1. Are you retired? | No |
